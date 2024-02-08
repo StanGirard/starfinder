@@ -1,5 +1,13 @@
 # StarFinder: GitHub Forks & User Insights
 
+<div align="center">
+    <img src="./logo.png" alt="Quivr-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
+</div>
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/starfinder?style=social)](https://github.com/quivrhq/quivr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/StanGirard?style=social)](https://twitter.com/_StanGirard)
+
+
 Welcome to StarFinder, a powerful tool designed to illuminate the universe of GitHub repositories by tracking forks and extracting comprehensive user information. Aimed at developers, data analysts, and open-source enthusiasts, StarFinder provides a window into the collaboration and community dynamics surrounding popular repositories. By leveraging this tool, users can uncover patterns, identify key contributors, and gain insights into the broader impact of a project.
 
 ## Features
@@ -66,7 +74,3 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 - Thank you to all contributors and users of StarFinder. Your support and feedback make this project possible.
 - This project uses the GitHub API but is not endorsed or certified by GitHub.
-
----
-
-This README provides a comprehensive overview of StarFinder, guiding users from installation to usage and contribution. It's designed to be inviting and informative, ensuring users of all levels can effectively utilize the tool.
