@@ -15,6 +15,9 @@ Welcome to StarFinder, a powerful tool designed to illuminate the universe of Gi
 - **Fork Crawler:** Efficiently navigates through the forks of a specified GitHub repository, compiling a detailed list of these forks along with their metadata.
 - **User Information Extraction:** Goes beyond forks to fetch in-depth information about the users who have forked the repository, including their profiles, contributions, and engagement within the GitHub ecosystem.
 - **Data Visualization:** Integrates with a Streamlit application, offering an intuitive interface for uploading, viewing, and analyzing the collected data in a structured and user-friendly format.
+<div style="text-align:center;">
+    <img src="2024-02-07-18-56-07.png" alt="Your image description" style="width:50%;">
+</div>
 
 ## Getting Started
 
